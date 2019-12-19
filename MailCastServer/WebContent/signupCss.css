@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+
+body{
+/*background-image:url("Markus-Mainka.jpg");*/
+background-color : aliceblue;	
+background-attachment: fixed;
+}
+#mark{
+background-color:blue;
+font-size: 22px;
+behaviour=alternate;
+margin: 20px;
+ color: white;
+}
+#head{
+background-color:blue;
+text-align:center;
+border: solid black;
+margin: 20px;
+width:auto;
+}
+#b1{
+	width :20em;
+	height: 2em;
+	
+}
+
+#i1{
+	border: 2px groove;
+	text-align: center;
+	margin: 30px;
+	background-color: blue;
+}
+#i2{
+	border : 10px double;
+	/*background-color: blue;*/
+	
+	margin : auto;
+	width: 500px;
+	padding: 10px;
+	margin-top: 50px;
+	overflow : scroll;
+}
+marquee{
+	behaviour : alternate;
+	background-color: blue;
+	color : whitesmoke;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+

@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+body{
+background-image:url("imgg.png");
+/*background-color : aliceblue;	*/
+background-attachment: fixed;
+}
+#mark{
+background-color:blue;
+font-size: 22px;
+behaviour=alternate;
+margin: 20px;
+ color: white;
+}
+#head{
+background-color:blue;
+text-align:center;
+border: solid black;
+margin: 20px;
+width:auto;
+}
+.button {
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 32px ;
+	margin-bottom: 32px;
+	margin-left:70px;
+	margin-right:70px;
+    cursor: pointer;
+	background-color:blue;
+	color: black;
+	border: outset black;
+}
+

@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+body{
+	background-color: aliceblue;
+	
+}
+#verify{
+	border: 1px groove;
+	margin : 30px;
+	padding: 20px;
+	background-color: blue;
+}
+#box{
+	border:  10px double;
+	margin: auto;
+	width: 300px;
+	margin-top: 100px;
+	padding: 30px;
+	
+    
+}

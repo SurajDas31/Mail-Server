@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	padding: 0px;
+	margin: 0px;
+	
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+body{
+	background-image: url("imgg.png");
+	
+}
+#verify{
+	text-align: center;
+	border: 1px groove;
+	margin : 30px;
+	padding: 20px;
+	background-color: blue;
+}
+#box{
+	border:  10px double;
+	margin: auto;
+	width: 400px;
+	margin-top: 50px;
+	padding: 30px;
+	float: right;
+    margin-right: 200px;
+}
+body{
+/*background-image:url("Markus-Mainka.jpg");*/
+background-color : aliceblue;	
+background-attachment: fixed;
+}
+#mark{
+background-color:blue;
+font-size: 22px;
+behaviour=alternate;
+margin: 20px;
+ color: white;
+}
+#head{
+background-color:blue;
+text-align:center;
+border: solid black;
+margin: 20px;
+width:auto;
+}
+#empid{
+	width:200px;
+	margin: auto;
+	
+}
+.button {
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 32px ;
+	margin-bottom: 32px;
+	margin-left:70px;
+	margin-right:70px;
+    cursor: pointer;
+	background-color:blue;
+	color: black;
+	border: outset black;
+}
+#b1{
+	width :20em;
+	height: 2em;
+	
+}
